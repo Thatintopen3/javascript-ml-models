@@ -1,0 +1,21 @@
+
+{
+  "name": "javascript-ml-models",
+  "version": "1.0.0",
+  "description": "Machine learning implementations using TensorFlow.js and Node.js for web-based and server-side AI applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tensorflow.js",
+    "machine-learning",
+    "node.js",
+    "ai"
+  ],
+  "author": "David Chen",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.0.0"
+  }
+}
