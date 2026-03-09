@@ -5,3 +5,4 @@ Historical development log for modern-react-dashboard - Entry 4
 Historical development log for modern-react-dashboard - Entry 5
 Historical development log for modern-react-dashboard - Entry 6
 Historical development log for modern-react-dashboard - Entry 7
+Historical development log for modern-react-dashboard - Entry 8
