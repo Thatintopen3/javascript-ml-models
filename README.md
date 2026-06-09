@@ -1,4 +1,5 @@
-# JavaScript Machine Learning Models\n\nThis repository explores machine learning concepts and implementations using JavaScript. It includes examples with TensorFlow.js for in-browser ML, as well as Node.js-based solutions for various ML tasks.
+# modern-react-dashboard
 
+A sleek, responsive admin dashboard built with React, Vite, and Tailwind CSS.
 
-*Last updated: October 2024*
+Built with modern technologies in the Frontend Development niche.
